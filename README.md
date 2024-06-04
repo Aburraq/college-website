@@ -17,10 +17,16 @@ Before you begin, ensure you have the following installed on your development ma
 - Open your terminal and write these one by one and press enter:
 
    ``
-   git clone https://github.com/Aburraq/college-website  
+   git clone https://github.com/Aburraq/college-website
+  ``
+  ``
    cd college-website  
+``
+``
    npm install  
-  npm install react-dom@18.2.0 react-icons@5.2.1 react-scroll@1.9.0  
+``
+``
+   npm install react-dom@18.2.0 react-icons@5.2.1 react-scroll@1.9.0  
   ``
 ### Development
 To start the development server and work on the project locally:
